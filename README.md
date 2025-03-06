@@ -17,6 +17,7 @@ Wide Trade Skills Plus simply doubles the width of the trade skills panes and al
 
 #### **Known Issues / To-Do**
 
+*   Enchanting pane remains active after selecting a new trade skill tab, showing both panes as active and making them unselectable until a new trade skill pane is opened or the pane is closed and re-opened.
 *   More thorough testing across all classes and tradeskills
 *   Create options commands and/or window to enable/disable features
 
