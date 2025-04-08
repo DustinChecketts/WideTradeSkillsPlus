@@ -1,8 +1,8 @@
-## Interface: 11506
+## Interface: 11507
 ## Title: WideTradeSkillsPlus
 ## Notes:  Dual-pane trade skill windows with shortcuts
 ## Author: StormtrooperTK421
-## Version: 1.0.1
+## Version: 1.0.2
 ## Dependencies: Blizzard_TradeSkillUI
 ## SavedVariablesPerCharacter: WTSPlusDB
 
